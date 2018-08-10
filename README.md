@@ -1,6 +1,6 @@
 # load-html-component
 
-Load an html component after the main document has finiahed loading.
+Load an html component after the main document has finished loading.
 
 ### Usage
 
