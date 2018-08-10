@@ -1,14 +1,13 @@
 {
   "name": "load-html-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Load an html component after the main document has finiahed loading.",
   "browser": "load-html-component.js",
   "scripts": {
     "lint": "eslint --env browser *.js*",
     "fix": "eslint --fix *.js*"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "isysd",
   "license": "MIT",
   "devDependencies": {
