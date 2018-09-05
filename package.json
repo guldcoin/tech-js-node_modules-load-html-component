@@ -7,7 +7,7 @@
     "lint": "eslint --env browser *.js*",
     "fix": "eslint --fix *.js*"
   },
-  "keywords": [],
+  "keywords": ["browser"],
   "author": "isysd",
   "license": "MIT",
   "devDependencies": {
@@ -28,6 +28,6 @@
   "engines": {
     "node": ">=7"
   },
-  "homepage": "https://github.com/isysd/tech-js-node_modules-load-html-component#readme",
-  "repository": "git@github.com:isysd/tech-js-node_modules-load-html-component.git"
+  "homepage": "https://bitbucket.org/isysd/tech-js-node_modules-load-html-component#readme",
+  "repository": "git@bitbucket.org:isysd/tech-js-node_modules-load-html-component.git"
 }
