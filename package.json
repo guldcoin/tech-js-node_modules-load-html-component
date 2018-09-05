@@ -1,6 +1,6 @@
 {
   "name": "load-html-component",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Load an html component after the main document has finiahed loading.",
   "browser": "load-html-component.js",
   "scripts": {
